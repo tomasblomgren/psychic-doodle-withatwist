@@ -1,3 +1,9 @@
-html {
-    color:blue;
+* {
+    color: red;
+}
+
+aside {
+    display: block;
+    margin: 100px;
+
 }
